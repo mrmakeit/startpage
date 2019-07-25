@@ -5,9 +5,16 @@ A simple start page using Vue.js and local storage to display your favorite shor
 ![Preview image 1](https://i.imgur.com/5sETJZO.png)
 ![Preview image 2](https://i.imgur.com/RMbsRyW.png)
 
+## Edits
+
+This repo introduces a few minor changes.
+
+1. DuckDuckGo - Changes the search engine used to DuckDuckGo
+1. Autofocus - Since using a NewTab plugin causes the URL bar to be filled, this makes searching feel more vanilla.
+
 ## Demo
 
-You can try the startpage here at [github pages](https://viktorkare.github.io/startpage/) or on my [personal site](https://start.theviktor.com).
+You can try the startpage here at [github pages](https://mrmakeit.github.io/startpage/) or on viktorkare's [personal site](https://start.theviktor.com).
 
 ## Install
 

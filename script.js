@@ -38,6 +38,7 @@ var app = new Vue({
     }
     
 })
+document.getElementById("search-bar").focus();
 
 function ToggleAddModal(){
   document.getElementById("add-link-modal").classList.toggle("show-flex");
